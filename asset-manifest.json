@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bea7edfd.css",
+    "main.css": "/static/css/main.57874bd6.css",
     "main.js": "/static/js/main.f326aedb.js",
     "static/media/Inconsolata-Regular.ttf": "/static/media/Inconsolata-Regular.54748073d423bc6646f7.ttf",
     "static/media/loader.gif": "/static/media/loader.8517b35dc87b28c4f0a1.gif",
     "index.html": "/index.html",
-    "main.bea7edfd.css.map": "/static/css/main.bea7edfd.css.map",
+    "main.57874bd6.css.map": "/static/css/main.57874bd6.css.map",
     "main.f326aedb.js.map": "/static/js/main.f326aedb.js.map"
   },
   "entrypoints": [
-    "static/css/main.bea7edfd.css",
+    "static/css/main.57874bd6.css",
     "static/js/main.f326aedb.js"
   ]
 }
